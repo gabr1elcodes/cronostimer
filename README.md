@@ -1,4 +1,4 @@
-Acesse o projeto: ()
+Acesse o projeto: ( https://gabr1elcodes.github.io/cronostimer/ )
 
 CronosTimer ⏱️ Um cronômetro moderno e estilizado com efeito neon, desenvolvido em HTML, CSS e JavaScript puro. 
 Este projeto demonstra minhas habilidades como Desenvolvedor Front-end, incluindo: Layout com Flexbox e centralização.
