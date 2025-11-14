@@ -1,9 +1,10 @@
 Acesse o projeto: ()
 
 CronosTimer ⏱️ Um cronômetro moderno e estilizado com efeito neon, desenvolvido em HTML, CSS e JavaScript puro. 
-Este projeto demonstra minhas habilidades como Desenvolvedor Front-end, incluindo: Layout com Flexbox e centralização. 
+Este projeto demonstra minhas habilidades como Desenvolvedor Front-end, incluindo: Layout com Flexbox e centralização.
+
 Estilização avançada com cores neon, sombras e efeitos hover. Manipulação de JavaScript para interatividade, como iniciar, pausar e reiniciar o cronômetro. 
-Boas práticas de HTML semântico e acessibilidade (aria-label, <main>, <header>). 
+Boas práticas de HTML semântico e acessibilidade. 
 
 🔹 Funcionalidades Iniciar o cronômetro. Pausar a contagem mantendo o tempo registrado. 
 Reiniciar o cronômetro para 00:00:00. 
